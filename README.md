@@ -1,7 +1,7 @@
 <h1 align=center>Hi there, I'm Natan Freitas 👋</h1> 
 
 ## 👨‍💻 About Me
-- 🎓  Studying Software Engineering - UnB;
+🎓  Studying Software Engineering - UnB;
 <!-- - Focused on Python stack
 - Enthusiast about everything related to artificial intelligence-->
 ##
