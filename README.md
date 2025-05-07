@@ -1,14 +1,14 @@
 <h1 align=center>Hi there, I'm Natan Freitas 👋</h1> 
 
 ## 👨‍💻 About Me
-🎓  Studying Software Engineering - UnB;
+<!-- 🎓  Studying Software Engineering - UnB; -->
 <!-- - Focused on Python stack
 - Enthusiast about everything related to artificial intelligence-->
 ##
 ## 🎯 Skills I'm currently developing
 <div >
   <a href="https://github.com/Natancf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natancf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Natancf&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natancf&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
